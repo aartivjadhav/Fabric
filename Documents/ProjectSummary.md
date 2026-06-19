@@ -19,43 +19,43 @@ Life Expectancy Dataset (Indicator: WHOSIS_000001): Tracks the average number of
 Project Insights - 
 Key Insights & Findings - 
 
-Life Expectancy Analysis
-Global Leaders and Lowest Performers
+Life Expectancy Analysis - 
+1) Global Leaders and Lowest Performers- 
 
 Between 2000 and 2021, Japan recorded the highest average life expectancy at 83.16 years, reflecting strong healthcare systems and favorable living conditions. In contrast, Lesotho reported the lowest average life expectancy at 48.09 years, highlighting significant health and socioeconomic challenges.
 
-Improvement Over Time
+2) Improvement Over Time -
 
 Average life expectancy showed a consistent upward trend from 2000 onwards, indicating overall improvements in global healthcare access and living standards across many countries.
 
-Regional Differences
+3) Regional Differences -
 
 Life expectancy varies considerably across regions. The European Region recorded the highest average life expectancy, while the African Region had the lowest, reflecting disparities in healthcare infrastructure, economic development and public health outcomes.
 
-Gender-Based Trends
+4) Gender-Based Trends -
 
 Females recorded the highest average life expectancy among all gender categories, with an average of 72.61 years between 2000 and 2021. This trend is consistent with global demographic patterns where women generally have longer life expectancy than men.
 
-Peak and Decline During the Pandemic Period
+5) Peak and Decline During the Pandemic Period -
 
 Average life expectancy reached its highest level in 2019 at 72.63 years. However, a decline was observed in 2020 and 2021, which may reflect the global health impacts experienced during the COVID-19 pandemic period.
 
-Confidence Interval Analysis
+Confidence Interval Analysis -
 
-Data Certainty Over Time
+1) Data Certainty Over Time
 
 The average confidence interval for life expectancy estimates was lowest in 2019 (0.90), indicating greater certainty in the reported figures. The highest average confidence interval was observed in 2021 (1.14), suggesting increased variability and uncertainty in health estimates during that period.
 
-Hospital Bed Analysis
+Hospital Bed Analysis - 
 
-Countries with Highest Healthcare Capacity
+1) Countries with Highest Healthcare Capacity -
 
 Oman, Luxembourg, Iran and Hungary recorded the highest average hospital bed availability, with approximately 99 hospital beds per 10,000 population, indicating strong healthcare infrastructure and capacity.
 
-Country with Lowest Healthcare Capacity
+2) Country with Lowest Healthcare Capacity -
 
 Chad recorded the lowest average hospital bed availability at approximately 40 beds per 10,000 population, highlighting potential constraints in healthcare resources and accessibility.
 
-Hospital Bed Trends Over Time
+3) Hospital Bed Trends Over Time -
 
 Average hospital bed availability fluctuated across the study period. The highest average was recorded in 2012 with 89.31 beds per 10,000 population, while the lowest average was observed in 2021 with 85.33 beds per 10,000 population, indicating a gradual decline in available hospital bed capacity over recent years.
